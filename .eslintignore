@@ -1,0 +1,11 @@
+node_modules/
+dist/
+public/
+bootstrap/
+vendor/
+vite.config.js
+tsconfig.json
+tailwind.config.js
+postcss.config.js
+*.config.js
+.eslintrc.cjs
